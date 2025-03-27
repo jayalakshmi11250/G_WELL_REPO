@@ -1,5 +1,4 @@
 from flask import Flask, render_template, request
-pip install joblib
 import joblib
 
 # Initialize the Flask app
